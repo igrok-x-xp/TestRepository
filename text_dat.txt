@@ -1,2 +1,3 @@
 lol lmao line added by person2
 merge test commit 1
+merge test commit 2
