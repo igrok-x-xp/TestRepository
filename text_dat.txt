@@ -6,3 +6,4 @@ squash test commit 2
 just commit in main
 rebase test commit 1
 rebase test commit 2
+some addition in main by p1
