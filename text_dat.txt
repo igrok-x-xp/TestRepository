@@ -3,3 +3,4 @@ merge test commit 1
 merge test commit 2
 squash test commit 1
 squash test commit 2
+just commit in main
