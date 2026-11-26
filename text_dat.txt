@@ -1,1 +1,9 @@
 lol lmao line added by person2
+merge test commit 1
+merge test commit 2
+squash test commit 1
+squash test commit 2
+just commit in main
+rebase test commit 1
+rebase test commit 2
+some addition in main by p1
