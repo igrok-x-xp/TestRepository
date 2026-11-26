@@ -5,3 +5,4 @@ squash test commit 1
 squash test commit 2
 just commit in main
 rebase test commit 1
+rebase test commit 2
